@@ -1,12 +1,12 @@
 ## Overview
-        Hey, Yash Here , The Work Which You See Above Is An Inspiration From 
+Hey, Yash Here , The Work Which You See Above Is An Inspiration From 
 [https://labs.jensimmons.com/2019/01-006D.html] Jen Simmons. The way she extended the limits of CSS Grids to create something asymmetric is amazing so I decided to give it a try myself. The Primary Objective Of This Project Is To Practice Working With Grids AndChallenge Myself To Create Something Distinct And Innovative. 
 You May Have Suggestions, Improvements, Or Bug Fixes, Please Feel Free To Submit A Pull Request Or Open An Issue In The Project Repository.We Can Work That Out Together :)
 
 
 ### Links
 
-- Live Site URL: [https://itsyashk1406.github.io/css-startuplayout/]
+- Live Site URL: [https://itsyashk1406.github.io/letter-space-grid/]
 
 ### Built with
 
